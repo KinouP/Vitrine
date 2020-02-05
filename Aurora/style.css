@@ -1,0 +1,72 @@
+body{
+    background-image: url("backAurora.jpg");
+    text-align:center;
+    font-family: Courier New;
+}
+
+div{
+    top: 20%;
+    position:absolute;
+    text-align:justify;
+}
+
+header {
+    background:#C0C0C0;
+    border-bottom: double #000000;
+    box-shadow: 0px 0px 150px #000000;
+    position:fixed;
+    top:0;
+    left: 0;
+    width:100%;
+    z-index: 1;
+}
+
+footer{
+    background:#C0C0C0;
+    border-top: double #000000;
+    box-shadow: 0px 0px 150px #000000;
+    position:fixed;
+    bottom:0;
+    left: 0;
+    width:100%;
+    padding-top:10px;
+    z-index: 1;
+}
+
+nav{
+    margin-top: 10px;
+}
+
+.menu ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.menu {
+    display: inline-block;
+}
+
+.menu a::after {
+    display: inline-block;
+    color: #000000;
+    content: '|';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
+}
+
+#mdebut a::before{
+    display: inline-block;
+    color: #000000;
+    content: '|';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
+}
+
+.cadre{
+    width: 100%;
+    left: 0;
+    margin-bottom: 4%;
+    font-weight: bold;
+}
