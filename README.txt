@@ -1,20 +1,16 @@
 Names List :
-	Aurora = journal (en cours de créa/arbo fini)
-	Maria = victorien (en cours)
+	Aurora = journal
+	Maria = victorien
 	Cassandra = modern
 	Vera = windows 8
 
 techno :
 	HTML
 	CSS
-	JS + angular/jQuery
+	JS + Angular + jQuery
 
-arboréscence :
-	index
+arborÃ©scence :
+	Index
 	   |_Articles
 	   |_Galerie
 	   |_Formulaire
-
-https://slides.iamvdo.me/kiwiparty12/#/24
-
-https://codepen.io/Sohail05/pen/yOpeBm
